@@ -15,7 +15,6 @@ Textbook: Composing Programs (Based on SICP but with Python)
 
 Videos: Lectures from [CS 61A Spring 2020](https://inst.eecs.berkeley.edu/~cs61a/sp20/). Lab, Discussion, and Homework are from [CS 61A Spring 2023](https://cs61a.org/) (Videos and Solutions are present for public)
 
-### Notion Timetable
 
 <!--
 ## Completion Matrix
